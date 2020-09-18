@@ -1,0 +1,48 @@
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.Form1.resources
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.Properties.Resources.resources
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.csproj.GenerateResource.cache
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\ICT.exe.config
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\ICT.exe
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\ICT.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.exe
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.admin.resources
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\MaterialDesignColors.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\MaterialSkin.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.csproj.ResolveComReference.cache
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.kayitForm.resources
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\DotNetZip.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\DotNetZip.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\bin\Debug\DotNetZip.xml
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\Interop.OleDbSrc.dll
+C:\Users\Baris\Desktop\Projelerim\ICT\ICT\obj\Debug\ICT.edit.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\ICT.exe.config
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\ICT.exe
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\ICT.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\DotNetZip.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\MaterialDesignColors.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\MaterialSkin.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\DotNetZip.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\DotNetZip.xml
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.csprojAssemblyReference.cache
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\Interop.OleDbSrc.dll
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.csproj.ResolveComReference.cache
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.admin.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.edit.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.Form1.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.kayitForm.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.Properties.Resources.resources
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.csproj.GenerateResource.cache
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.csproj.CoreCompileInputs.cache
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.csproj.CopyComplete
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.exe
+C:\Users\Baris\Desktop\Projelerim\ICT - Updated\ICT\obj\Debug\ICT.pdb
